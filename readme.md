@@ -106,5 +106,12 @@ http://localhost:8501
 
   ```bash
   pip install -r requirements.txt
-  ```
 
+
+## LINK STREAMLIT CLOUD
+
+Berikut link dari dashboard yang telah saya deploy:
+
+  ```bash
+  https://e-commerce-data-analysis-hy7jotp2nwrbu5z7uhpklj.streamlit.app/
+  ```
